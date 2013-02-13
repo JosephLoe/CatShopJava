@@ -1,4 +1,4 @@
-CubeDefense
+CAtShop
 ===========
 
-Defend the Cube - ci224
+CatShop Java ci 228 Object Oriented Software Design and Implementation.
